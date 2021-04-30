@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+.vscode
+.debug.log
+allure-results
+.log
+.xml
+.png
+allure-report
